@@ -1,0 +1,6 @@
+{
+  "name": "StreetSub - ترجمه هوشمند فیلم به فارسی خیابونی و محاوره‌ای",
+  "description": "سامانه ترجمه خودکار زیرنویس و صدای فیلم به زبان فارسی محاوره‌ای، لاتی و خیابونی با قابلیت تنظیم لحن و توضیحات صحنه.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
